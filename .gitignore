@@ -1,11 +1,11 @@
 www/
-kaggle/
-dataset/
+Handle*/
+kaggle*/
+dataset*/
 mission/
 Projet+*.*
-*.p
-*.csv
 stream*/
-.idea/
+.idea/*
 .ipynb_checkpoints/*
-Pycharm/*
+Pycharm*/*
+*.csv
