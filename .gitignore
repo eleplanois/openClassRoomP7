@@ -1,11 +1,10 @@
-www/
-Handle*/
-kaggle*/
-dataset*/
-mission/
+Handle-imbalanced-data-master/*
+kaggle/*
+kaggleAvoir/*
+dataset/*
+mission/*
 Projet+*.*
-stream*/
 .idea/*
 .ipynb_checkpoints/*
-Pycharm*/*
+Pycharm/*
 *.csv
